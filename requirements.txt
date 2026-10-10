@@ -1,0 +1,6 @@
+Paintext
+
+streamlit
+numpy
+scipy
+plotly
