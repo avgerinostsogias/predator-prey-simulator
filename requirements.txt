@@ -1,4 +1,4 @@
-Paintext
+Plaintext
 
 streamlit
 numpy
